@@ -1,5 +1,17 @@
 # 💫 About Me:
-Ozgecmis Yazilacak
+Hello! I am Yusuf ARIKDOGAN,
+
+In 2023, I embarked on a transformative journey by enrolling in an AWS DevOps Bootcamp. This immersive experience has equipped me with comprehensive knowledge and skills in the realm of AWS DevOps. I have since demonstrated my expertise by contributing to and successfully completing two significant projects.
+
+Here are some of my AWS DevOps proficiencies and accomplishments:
+
+Building scalable and secure infrastructures using AWS services.
+Managing and configuring AWS services such as Lambda, EC2, RDS, and S3.
+Implementing continuous integration and continuous deployment (CI/CD) pipelines using Jenkins, Travis CI, and GitLab CI/CD tools.
+Developing automation through infrastructure management tools like AWS CloudFormation and Terraform.
+With a commitment to continuously update and enhance my technological capabilities, I stay at the forefront of emerging trends in the field. My background in education, coupled with my unwavering interest in the welfare of individuals with intellectual disabilities, motivates me to extend the potential of technology to enhance their quality of life on a broader scale.
+
+I am here to expand my network, explore new opportunities, and collaborate on intriguing projects. Sharing my insights and experiences in the realms of education, technology, and DevOps is a passion of mine. Please do not hesitate to get in touch with me!
 
 
 ## 🌐 Socials:
