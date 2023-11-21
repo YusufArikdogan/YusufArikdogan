@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! I am Yusuf ARIKDOGAN,
 
-In 2023, I embarked on a transformative journey by enrolling in an AWS DevOps Bootcamp. This immersive experience has equipped me with comprehensive knowledge and skills in the realm of AWS DevOps. I have since demonstrated my expertise by contributing to and successfully completing two significant projects.
+In 2020, I embarked on a transformative journey by enrolling in an AWS DevOps Training. This immersive experience has equipped me with comprehensive knowledge and skills in the realm of AWS DevOps. I have since demonstrated my expertise by contributing to and successfully completing two significant projects.
 
 Here are some of my AWS DevOps proficiencies and accomplishments:
 
